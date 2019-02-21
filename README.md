@@ -1,6 +1,6 @@
 # Robotic hoover
 
-This is a solution to programming challenge, described [here](https://gist.github.com/DavidJSimpsonEsq/71dcf396a2303ad5edd08690289d016d). Extensively uses [a package](https://github.com/laurinenas/robotic-hoover) that abstracts hoover movement logic away.
+This is a solution to programming challenge, described [here](https://gist.github.com/DavidJSimpsonEsq/71dcf396a2303ad5edd08690289d016d).Extensively uses [a package](https://github.com/laurinenas/robotic-hoover) that abstracts hoover movement logic away.
 
 ## Getting Started
 

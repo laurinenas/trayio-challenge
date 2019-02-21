@@ -1,14 +1,14 @@
 {
-	"scripts": {
-		"start": "node ./index.js",
-		"debug": "ndb ./index.js",
-		"test": "jest",
-		"tw": "jest --watch"
-	},
-	"devDependencies": {
-		"jest": "^24.1.0"
-	},
-	"dependencies": {
-		"robotic-hoover": "0.0.1"
-	}
+    "scripts": {
+        "start": "node ./index.js",
+        "debug": "ndb ./index.js",
+        "test": "jest",
+        "tw": "jest --watch"
+    },
+    "devDependencies": {
+        "jest": "^24.1.0"
+    },
+    "dependencies": {
+        "robotic-hoover": "0.0.1"
+    }
 }
